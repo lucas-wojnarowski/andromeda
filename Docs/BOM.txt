@@ -1,0 +1,20 @@
+Płytka:
+PCBWay: 2 layer, 319$ 10 pcs (120 PLN per board) , 440x440mm
+
+
+PIC16F18877-I/PT - 1 szt. MOUSER - zamówione PIC16LF18877-I/PT z Microchip Direct, będzie 31.05
+47346-0001 - 1 szt. FARNELL Z
+LDLN030G33R - 1 szt. FARNELL Z
+STM1061N19WX6F - 1 szt. FARNELL Z
+BM71BLES1FC2-0B02AA lub BM71BLES1FC2-0B04AA - 1 szt. SAMPLE MICROCHIP - zamówione 3 szt. BM71BLES1FC2-0B02AA
+YJL03G10A-F2-0000HF - 9 szt. - TME (warsztat)
+SN74LV4051ADR - 22 szt. FARNELL Z
+R 270 Ohm 0603 - 82 szt. Z
+R 470k Ohm 0603 - 81 szt. Z
+R 47k Ohm 0603 - 95 szt. Z
+C 100n/6.3V 0603 - 2 szt. Z
+C 1u/6.3V 0603 - 2 szt. Z
+C 10u/10V 0603 - 2 szt. Z 
+LED_0603 - 1 szt. warsztat
+RPR-220 - 81 szt. Ali
+GL5549 - 81 szt. Ali

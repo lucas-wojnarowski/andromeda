@@ -1,0 +1,15 @@
+import tkinter as tk
+from tkinter import messagebox
+
+root = tk.Tk()
+ 	root.title("9x9 Board - Andromeda")
+
+root.minsize(300,400)
+
+canvas1 = tk.Canvas(root, width=600, height=450, background="white")
+filename = tk.PhotoImage(file = "/home/pi/andromeda/9x9_board.png")
+background_label = Label(top, image=filename)
+background_label.place(x=0, y=0, relwidth=1, relheight=1)
+canvas1.pack()
+
+root.mainloop()

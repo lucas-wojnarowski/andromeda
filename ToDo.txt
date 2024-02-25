@@ -1,0 +1,20 @@
+MPLAB:
+
+
+ML:
+    
+- klasyfikacja b, w, n
+    - kod do pomiarów
+    - regularyzacja
+    - stratyfikacja
+    - projekt na Gitlabie, z Pycharma lub Colaba
+
+Hardware:
+
+Kod:
+- pozbyć się zmiennych globalnych
+- wydzielić wątek wyświetlania od serial read
+- aktualizacja baseline
+
+Następne rewizje:
+- dodać wcięcia w płytce aby wyprostować czujniki przy lutowaniu
